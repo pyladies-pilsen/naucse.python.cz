@@ -6,14 +6,20 @@ subpages:
     mu:
         title: Instalace MU
     vscode:
-        title: Nastavení Visual Studio Code
+        title: Instalace Visual Studio Code
+        subtitle: Visual Studio Code
     atom:
-        title: Nastavení Atomu
+        title: Instalace Atomu
+        subtitle: Atom
     kate:
-        title: Nastavení Kate
+        title: Instalace Kate
+        subtitle: Kate
     gedit:
-        title: Nastavení Geditu
+        title: Instalace Geditu
+        subtitle: Gedit
     notepad-plus-plus:
-        title: Nastavení Notepadu++
+        title: Instalace Notepadu++
+        subtitle: Notepad++
     others:
         title: Nastavení editoru
+        subtitle: Nastavení
