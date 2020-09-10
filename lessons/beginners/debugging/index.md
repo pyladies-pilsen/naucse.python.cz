@@ -90,21 +90,21 @@ logging.basicConfig(filename='podivny_vypocet.log',level=logging.DEBUG)
 
 logging.info("Načítám číslo od uživatele")
 cislo = int(input("Zadej číslo:"))
-logging.info("Zadané čislo je:", cislo)
+logging.info(f"Zadané čislo je: {cislo}")
 
-logging.info("Přičítám jedničku")
+logging.info(f"Přičítám jedničku")
 cislo = cislo + 1
-logging.debug("Po přičtení jedničky je hodnota:", cislo)
+logging.debug(f"Po přičtení jedničky je hodnota: {cislo}")
 
 logging.info("Násobím dvěmi")
 cislo = cislo ** 2
-logging.debug("Po vynásobení dvěmi je hodnota:", cislo)
+logging.debug(f"Po vynásobení dvěmi je hodnota: {cislo}")
 
 logging.info("Odečítám pětku")
 cislo = cislo - 5
-logging.debug("Po odečtení 5 je výsledek:", cislo)
+logging.debug(f"Po odečtení 5 je výsledek: {cislo}")
 
-print("Výsledek je:", cislo)
+print(f"Výsledek je: {cislo}")
 
 logging.info("Konec programu")
 ```

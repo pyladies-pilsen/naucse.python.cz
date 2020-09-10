@@ -52,15 +52,15 @@ kód, který máš právě otevřený se spustí, v dolní části okna se objev
 
 ## Kontrola stylu zdrojového kódu
 
-Tak jako čeština má Python typografická pravidla.
+Tak jako čeština má i Python typografická pravidla.
 Například za čárkou se píše mezera, ale před ní ne.
 Jsou nepovinná, program bude fungovat i při jejich nedodržení,
-ale pomáhají psát přehledný kód, tak je dobré je dodržovat už od začátku.
+ale pomáhají psát přehledný kód, je tak dobré je dodržovat už od začátku.
 Pravidla pro Python jsou popsána v dokumentu
 [PEP8](https://www.python.org/dev/peps/pep-0008/).
 
 Aby sis je nemusel{{a}} všechny pamatovat a postupně si na ně zvykla provádí kontrolu Mu za tebe.
-Stačí kliknout na ikonku zdviženého palce a Mu ti zkoukne kód a řekne, kde není správně upravený.
+Stačí kliknout na ikonku zdviženého palce a Mu ti "zkoukne" kód a řekne, kde není správně upravený.
 
 {{ figure(img=static('mu-syntax-check.png'), alt="Mu syntax chceck") }}
 

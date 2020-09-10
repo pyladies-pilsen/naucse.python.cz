@@ -78,16 +78,16 @@ Na kurzu budeme používat Mu editor
 * [Mu]({{ subpage_url('mu') }}) - jednoduchý editor určený pro začínající programátory.
 
 Nemáš-li už vlastní oblíbený editor, ale chceš zkusit něco jiného, 
-pro Windows a macOS doporučujeme *Atom* nebo *Visual Studio Code*:
+pro Windows a macOS doporučujeme *Visual Studio Code* případně *Atom*:
 
-* [Atom]({{ subpage_url('atom') }}) – doporučený editor pro
-  Windows a macOS.
-  
 * [Visual Studio Code]({{ subpage_url('vscode') }}) – doporučený editor pro
   Windows a macOS (a vhodný i pro Linux).
   V poslední době je to asi nejpopulárnější editor kódu.
   Nabízí mnoho funkcí a má velkou základnu uživatelů a vývojářů,
   takže se neustále vylepšuje.
+
+* [Atom]({{ subpage_url('atom') }}) – doporučený editor pro
+  Windows a macOS.
 
 Na Linuxu budeš mít pravděpodobně už nainstalovaný Gedit nebo Kate.
 Zkus se podívat do systémové nabídky, jestli jeden z nich máš (případně je
