@@ -88,6 +88,8 @@ plan:
   date: 2020-10-13
   materials:
   - lesson: beginners/str
+  - lesson: beginners/str-index-slice
+  - lesson: beginners/str-methods
   - lesson: beginners/files
   - title: 'Odkaz k lekci – Jane Austen: Pride and Prejudice'
     url: https://www.gutenberg.org/files/1342/1342-0.txt
